@@ -1,7 +1,7 @@
 import styles from './Ingredients.module.css';
 
 export default function RecipeIngredients() {
-    const ingredients = ["penne", "pesto", "parmesan", "roasted red peppers", "italian chicken sausage"];
+    const ingredients = ["Onion", "Tomatos", "Vegetables", "Spices", "Salt"];
     return (
         <div>
         <h3>Recipe Ingredients</h3>

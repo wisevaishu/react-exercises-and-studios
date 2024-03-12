@@ -1,6 +1,6 @@
 import styles from './Description.module.css';
 export default function RecipePhoto() {
     return (
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_gE6N-7D2UAXf63KIUvL9zbKeHnHTF2JNw&usqp=CAU" alt="recipe photo" className = {styles.imageUpdates} />
+        <img src="https://3.bp.blogspot.com/-0H3wTlR2Yo0/V4--4NrY6GI/AAAAAAAAAno/x9gYRALXUIQyxYP8jOH2SgMc33UZ3cOKACLcB/s1600/veg%2BBiryani.JPG" className = {styles.imageUpdates} />
      );
 }
