@@ -12,6 +12,7 @@ function App() {
       <div className="recipePhotoBlock">
       <RecipeDescription />
       <RecipeIngredients />
+      
       </div>
       </div>
   )
