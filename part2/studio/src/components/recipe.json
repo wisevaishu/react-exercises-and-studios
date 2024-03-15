@@ -1,17 +1,13 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Veg Biriyani",
+     "author": "Steffi",
+     "description": "Veg Biryani is a popular Indian dish known for its aromatic flavors, rich spices, and colorful presentation. It is a flavorful rice dish made with a variety of vegetables, fragrant basmati rice, and a blend of spices.",
+     "website": "https://www.steffisrecipes.com/2016/07/veg-biryani-vegetable-biryani-in.html",
+     "recipeImage": "https://3.bp.blogspot.com/-0H3wTlR2Yo0/V4--4NrY6GI/AAAAAAAAAno/x9gYRALXUIQyxYP8jOH2SgMc33UZ3cOKACLcB/s1600/veg%2BBiryani.JPG",
+     "authorImage": "https://2.bp.blogspot.com/-gtzqeiUbi6g/V3WpkFGB0UI/AAAAAAAAAFE/1uDWe3pL1gsqU-FmZDNboPnW3l3zjkEoQCKgB/s320/IMG-20151226-WA0001.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+       "Onion", "Tomatos", "Vegetables", "Spices", "Salt"
      ]
    }
  ]

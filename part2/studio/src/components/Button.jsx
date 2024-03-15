@@ -1,5 +1,9 @@
-function Button() {
-   return;
+import ClickedButton from '../components/ClickedButton';
+import SaveButton from '../components/SaveButton';
+
+function Button(props) {
+    const saveButton = props.saveButton;
+    return (saveButton==="true") ? <SaveButton /> : <ClickedButton />;
  }
  
  export default Button;
